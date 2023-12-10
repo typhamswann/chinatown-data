@@ -5,69 +5,51 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-71.413972, 41.820333]
-        },
+          "coordinates": [
+            -71.41545840406322, 41.82144958892539]        
+          },
         "properties": {
-          "name": "Beneficent Congregational Church",
-          "address": "300 Weybosset St, Providence, RI 02903"
+          "name": "Empire Street Alley"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-71.382222, 41.882306]
+          "coordinates": [-71.413610, 41.820120]
         },
         "properties": {
-          "name": "Chinese Congregational Church Rhode Island",
-          "address": "333 Roosevelt Ave, Pawtucket, RI 02860"
+          "name": "Beneficent Congregational Church"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-71.412778, 41.823528]
+          "coordinates": [-71.415140, 41.819070]
         },
         "properties": {
-          "name": "Luke’s Restaurant",
-          "address": "59 Eddy Street",
-          "yearsActive": "1951 to 1978"
+          "name": "Moy’s High Class Laundry"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-71.410333, 41.824250]
+          "coordinates": [-71.412930, 41.823610]
         },
         "properties": {
-          "name": "Mee Hong Restaurant",
-          "address": "102 Westminster Street",
-          "yearsActive": "1938 to 1979"
+          "name": "Luke’s Chinese-American Restaurant"
         }
       },
       {
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-71.411361, 41.824167]
+          "coordinates": [-71.431180, 41.787660]
         },
         "properties": {
-          "name": "Ming Garden",
-          "address": "141-143 Westminster Street",
-          "yearsActive": "1941 to 1986"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-71.415511, 41.821602]
-        },
-        "properties": {
-          "name": "Empire Street",
-          "description": "Ally between Pell Chaffe Performance Center and Cafe La France"
+          "name": "On Leong Chinese Mechants Association"
         }
       }
     ]
