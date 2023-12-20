@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-71.412930, 41.823610]
+            },
+            "properties": {
+              "name": "Luke’s Chinese-American Restaurant"
+            }
+          }
+    ]}

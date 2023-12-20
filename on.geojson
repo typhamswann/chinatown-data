@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-71.431180, 41.787660]
+            },
+            "properties": {
+              "name": "On Leong Chinese Mechants Association"
+            }
+          }
+    ]}
